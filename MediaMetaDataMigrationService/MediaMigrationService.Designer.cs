@@ -1,6 +1,6 @@
 ﻿namespace MediaMetaDataMigrationService
 {
-    partial class Service1
+    partial class MediaMigrationService
     {
         /// <summary> 
         /// Required designer variable.
@@ -28,8 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            components = new System.ComponentModel.Container();
+            // 
+            // MediaMigrationService
+            // 
             this.ServiceName = "Service1";
+
         }
 
         #endregion
